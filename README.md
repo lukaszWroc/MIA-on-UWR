@@ -1,1 +1,1 @@
-My solutions to tasks from Algorithm Implementation Methods on University of Wrocław
+My solutions to tasks from Algorithm Implementation Methods (competitive programming) on University of Wrocław
